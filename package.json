@@ -1,7 +1,7 @@
 {
   "name": "gmm-gugabooks",
   "homepage": "http://www.gugabooks.com",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gugabooks, the write's editor!",
   "main": "index.js",
   "scripts": {
